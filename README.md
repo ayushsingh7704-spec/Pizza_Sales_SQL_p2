@@ -164,7 +164,7 @@ group by pizza_types.category, pizza_types.name) as a;
 
 -Peak order volumes occurred during afternoon and evening hours, highlighting clear time-based demand patterns.
 
-=Certain pizza categories consistently generated higher revenue, supporting focused product and inventory strategies.
+-Certain pizza categories consistently generated higher revenue, supporting focused product and inventory strategies.
 
 Analytical Report 📝
 
@@ -180,15 +180,16 @@ This project demonstrates the effective use of SQL as a business intelligence to
 
 -Prepared category-wise and pizza-wise reports to identify top-performing products
 
-=Created time-based reports (hourly and daily) to analyze ordering patterns
+-Created time-based reports (hourly and daily) to analyze ordering patterns
 
-=Developed revenue contribution and cumulative revenue reports to support strategic decision-making
+-Developed revenue contribution and cumulative revenue reports to support strategic decision-making
 ## Conclusion
 
 This project demonstrates the effective use of SQL as a business intelligence tool to analyze sales data and derive actionable insights. The findings can help businesses optimize pricing, inventory management, and sales strategies. Overall, the analysis supports data-driven decision-making and showcases practical SQL skills applicable to real-world business scenarios.
 
 
 - **LinkedIn**: [Connect with me professionally] (www.linkedin.com/in/iayushrajpoot)
+
 
 
 
