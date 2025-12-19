@@ -101,7 +101,7 @@ FROM
 GROUP BY HOUR(order_time);
 ```
 
-8. **Join relevant tables to find the category-wise distribution of pizzas. **:
+8. **Join relevant tables to find the category-wise distribution of pizzas.**:
 ```sql
 SELECT 
     AVG(quantity)
@@ -189,6 +189,7 @@ This project demonstrates the effective use of SQL as a business intelligence to
 
 
 - **LinkedIn**: [Connect with me professionally] (www.linkedin.com/in/iayushrajpoot)
+
 
 
 
