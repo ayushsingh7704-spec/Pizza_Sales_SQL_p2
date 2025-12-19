@@ -158,13 +158,13 @@ group by pizza_types.category, pizza_types.name) as a;
 ```
 ## Key Findings
 
--A strong sales concentration was observed in a few top-performing pizza types, which contributed a significant share of total revenue.
+- A strong sales concentration was observed in a few top-performing pizza types, which contributed a significant share of total revenue.
 
--Large-sized pizzas were the most frequently ordered, indicating higher customer preference.
+- Large-sized pizzas were the most frequently ordered, indicating higher customer preference.
 
--Peak order volumes occurred during afternoon and evening hours, highlighting clear time-based demand patterns.
+- Peak order volumes occurred during afternoon and evening hours, highlighting clear time-based demand patterns.
 
--Certain pizza categories consistently generated higher revenue, supporting focused product and inventory strategies.
+- Certain pizza categories consistently generated higher revenue, supporting focused product and inventory strategies.
 
 Analytical Report 📝
 
@@ -176,19 +176,20 @@ This project demonstrates the effective use of SQL as a business intelligence to
 
 ## Reports
 
--Generated sales and revenue reports to evaluate overall business performance
+- Generated sales and revenue reports to evaluate overall business performance
 
--Prepared category-wise and pizza-wise reports to identify top-performing products
+- Prepared category-wise and pizza-wise reports to identify top-performing products
 
--Created time-based reports (hourly and daily) to analyze ordering patterns
+- Created time-based reports (hourly and daily) to analyze ordering patterns
 
--Developed revenue contribution and cumulative revenue reports to support strategic decision-making
+- Developed revenue contribution and cumulative revenue reports to support strategic decision-making
 ## Conclusion
 
 This project demonstrates the effective use of SQL as a business intelligence tool to analyze sales data and derive actionable insights. The findings can help businesses optimize pricing, inventory management, and sales strategies. Overall, the analysis supports data-driven decision-making and showcases practical SQL skills applicable to real-world business scenarios.
 
 
 - **LinkedIn**: [Connect with me professionally] (www.linkedin.com/in/iayushrajpoot)
+
 
 
 
