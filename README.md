@@ -50,7 +50,7 @@ ORDER BY pizzas.price DESC
 LIMIT 1;
 ```
 
-4. *Identify the most common pizza size ordered.**:
+4. **Identify the most common pizza size ordered.**:
 ```sql
 SELECT 
     pizzas.size,
@@ -114,7 +114,7 @@ FROM
     GROUP BY orders.order_date) AS order_quantity;
 ```
 
-9. *Determine the top 3 most ordered pizza types based on revenue.**:
+9. **Determine the top 3 most ordered pizza types based on revenue.**:
 ```sql
 SELECT 
     pizza_types.name,
@@ -189,5 +189,6 @@ This project demonstrates the effective use of SQL as a business intelligence to
 
 
 - **LinkedIn**: [Connect with me professionally] (www.linkedin.com/in/iayushrajpoot)
+
 
 
